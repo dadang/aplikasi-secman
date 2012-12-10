@@ -14,3 +14,7 @@
 	- git config --global user.name "dadang"
 
 5. Commit (save) ke repository local
+
+6. Registrasi Repository Remote
+
+git remote add <nama-remote> <url-remote>
