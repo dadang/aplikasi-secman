@@ -1,0 +1,16 @@
+# Membuat Repository Baru #
+
+1. Buat folder kosong
+
+2. Inisialisasi repository Git
+
+	- git init
+
+3. Buat Ignore File (.gitignore)
+
+4. Setup username dan email
+
+	- git config --global user.email "dadangiswan@gmail.com"
+	- git config --global user.name "dadang"
+
+5. Commit (save) ke repository local
