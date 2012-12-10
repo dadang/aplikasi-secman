@@ -29,3 +29,7 @@
 8. git clone <url>
 
 9. 
+
+6. Registrasi Repository Remote
+
+git remote add <nama-remote> <url-remote>

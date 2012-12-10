@@ -27,3 +27,10 @@
 	- git push -u github-saya master
 
 8. git clone <url>
+
+9. 
+
+6. Registrasi Repository Remote
+
+git remote add <nama-remote> <url-remote>
+>>>>>>> 587e937477d0770d21734e049f887ac33959cb2e
