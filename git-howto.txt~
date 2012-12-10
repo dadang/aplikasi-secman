@@ -4,10 +4,26 @@
 
 2. Inisialisasi repository Git
 
-	git init
+	- git init
 
 3. Buat Ignore File (.gitignore)
 
 4. Setup username dan email
 
+	- git config --global user.email "dadangiswan@gmail.com"
+	- git config --global user.name "dadang"
+
 5. Commit (save) ke repository local
+
+	- git add .
+	- git commit -m "commit pertama"
+
+6. Mendaftarkan repository remote
+
+	- git remote add origin git@github.com:dadang/aplikasi-secman.git
+
+7. Upload isi repository local ke repository remote
+
+	- git push -u github-saya master
+
+8. git clone <url>
