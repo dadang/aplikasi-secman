@@ -30,3 +30,7 @@
 	contoh :  git push -u github-saya master
 
 8. git clone <url>
+
+9. Mengambil perubahan dari server
+
+git pull
