@@ -7,8 +7,6 @@
 	- git init
 
 3. Buat Ignore File (.gitignore)
-   untuk windows, harus rename lewat command line
-   tidak bisa lewat explorer
 
 4. Setup username dan email
 
