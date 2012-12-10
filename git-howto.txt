@@ -15,11 +15,18 @@
 
 5. Commit (save) ke repository local
 
-6. Registrasi Repository Remote
+	- git add .
+	- git commit -m "commit pertama"
 
-git remote add <nama-remote> <url-remote>
+6. Mendaftarkan repository remote
 
-7. Push ke remote
+	git remote add <nama-remote> <url-remote>
 
-git push -u <nama-remote> <nama-branch>
+	contoh: git remote add origin git@github.com:dadang/aplikasi-secman.git
 
+7. Upload isi repository local ke repository remote
+
+	git push -u <nama-remote> <nama-branch>
+	contoh :  git push -u github-saya master
+
+8. git clone <url>
