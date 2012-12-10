@@ -18,3 +18,8 @@
 6. Registrasi Repository Remote
 
 git remote add <nama-remote> <url-remote>
+
+7. Push ke remote
+
+git push -u <nama-remote> <nama-branch>
+
